@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "GM7B541KSg5iVUbj2Gg4sEmVyByg5ikY31zrOr2o0xICgPqy7e+EfAaRTxAWTP8uKrdN62yoB1hX9dE+0l1Qaw==",
+  "success": true,
+  "projectFilePath": "C:\\Testes\\AdmProduct\\2 - Application\\Application.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\paulo.zapparolli\\.nuget\\packages\\microsoft.csharp\\4.5.0\\microsoft.csharp.4.5.0.nupkg.sha512",
+    "C:\\Users\\paulo.zapparolli\\.nuget\\packages\\microsoft.identitymodel.jsonwebtokens\\6.16.0\\microsoft.identitymodel.jsonwebtokens.6.16.0.nupkg.sha512",
+    "C:\\Users\\paulo.zapparolli\\.nuget\\packages\\microsoft.identitymodel.logging\\6.16.0\\microsoft.identitymodel.logging.6.16.0.nupkg.sha512",
+    "C:\\Users\\paulo.zapparolli\\.nuget\\packages\\microsoft.identitymodel.tokens\\6.16.0\\microsoft.identitymodel.tokens.6.16.0.nupkg.sha512",
+    "C:\\Users\\paulo.zapparolli\\.nuget\\packages\\system.identitymodel.tokens.jwt\\6.16.0\\system.identitymodel.tokens.jwt.6.16.0.nupkg.sha512",
+    "C:\\Users\\paulo.zapparolli\\.nuget\\packages\\system.security.cryptography.cng\\4.5.0\\system.security.cryptography.cng.4.5.0.nupkg.sha512"
+  ],
+  "logs": []
+}

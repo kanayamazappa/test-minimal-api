@@ -1,0 +1,15 @@
+C:\Testes\AdmProduct\2 - Application\bin\Debug\netstandard2.1\Application.deps.json
+C:\Testes\AdmProduct\2 - Application\bin\Debug\netstandard2.1\Application.dll
+C:\Testes\AdmProduct\2 - Application\bin\Debug\netstandard2.1\Application.pdb
+C:\Testes\AdmProduct\2 - Application\bin\Debug\netstandard2.1\Domain.dll
+C:\Testes\AdmProduct\2 - Application\bin\Debug\netstandard2.1\Repository.dll
+C:\Testes\AdmProduct\2 - Application\bin\Debug\netstandard2.1\Repository.pdb
+C:\Testes\AdmProduct\2 - Application\bin\Debug\netstandard2.1\Domain.pdb
+C:\Testes\AdmProduct\2 - Application\obj\Debug\netstandard2.1\Application.csproj.AssemblyReference.cache
+C:\Testes\AdmProduct\2 - Application\obj\Debug\netstandard2.1\Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Testes\AdmProduct\2 - Application\obj\Debug\netstandard2.1\Application.AssemblyInfoInputs.cache
+C:\Testes\AdmProduct\2 - Application\obj\Debug\netstandard2.1\Application.AssemblyInfo.cs
+C:\Testes\AdmProduct\2 - Application\obj\Debug\netstandard2.1\Application.csproj.CoreCompileInputs.cache
+C:\Testes\AdmProduct\2 - Application\obj\Debug\netstandard2.1\Application.csproj.CopyComplete
+C:\Testes\AdmProduct\2 - Application\obj\Debug\netstandard2.1\Application.dll
+C:\Testes\AdmProduct\2 - Application\obj\Debug\netstandard2.1\Application.pdb

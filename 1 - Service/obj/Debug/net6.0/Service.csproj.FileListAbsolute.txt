@@ -1,0 +1,71 @@
+C:\Testes\AdmProduct\1- Service\obj\Debug\net6.0\Service.csproj.AssemblyReference.cache
+C:\Testes\AdmProduct\1- Service\obj\Debug\net6.0\Service.GeneratedMSBuildEditorConfig.editorconfig
+C:\Testes\AdmProduct\1- Service\obj\Debug\net6.0\Service.AssemblyInfoInputs.cache
+C:\Testes\AdmProduct\1- Service\obj\Debug\net6.0\Service.AssemblyInfo.cs
+C:\Testes\AdmProduct\1- Service\obj\Debug\net6.0\Service.csproj.CoreCompileInputs.cache
+C:\Testes\AdmProduct\1- Service\obj\Debug\net6.0\Service.MvcApplicationPartsAssemblyInfo.cache
+C:\Testes\AdmProduct\1- Service\bin\Debug\net6.0\appsettings.Development.json
+C:\Testes\AdmProduct\1- Service\bin\Debug\net6.0\appsettings.json
+C:\Testes\AdmProduct\1- Service\bin\Debug\net6.0\Service.exe
+C:\Testes\AdmProduct\1- Service\bin\Debug\net6.0\Service.deps.json
+C:\Testes\AdmProduct\1- Service\bin\Debug\net6.0\Service.runtimeconfig.json
+C:\Testes\AdmProduct\1- Service\bin\Debug\net6.0\Service.dll
+C:\Testes\AdmProduct\1- Service\bin\Debug\net6.0\ref\Service.dll
+C:\Testes\AdmProduct\1- Service\bin\Debug\net6.0\Service.pdb
+C:\Testes\AdmProduct\1- Service\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Testes\AdmProduct\1- Service\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Testes\AdmProduct\1- Service\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Testes\AdmProduct\1- Service\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Testes\AdmProduct\1- Service\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Testes\AdmProduct\1- Service\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Testes\AdmProduct\1- Service\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Testes\AdmProduct\1- Service\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Testes\AdmProduct\1- Service\obj\Debug\net6.0\staticwebassets.build.json
+C:\Testes\AdmProduct\1- Service\obj\Debug\net6.0\staticwebassets.development.json
+C:\Testes\AdmProduct\1- Service\obj\Debug\net6.0\scopedcss\bundle\Service.styles.css
+C:\Testes\AdmProduct\1- Service\obj\Debug\net6.0\Service.csproj.CopyComplete
+C:\Testes\AdmProduct\1- Service\obj\Debug\net6.0\Service.dll
+C:\Testes\AdmProduct\1- Service\obj\Debug\net6.0\ref\Service.dll
+C:\Testes\AdmProduct\1- Service\obj\Debug\net6.0\Service.pdb
+C:\Testes\AdmProduct\1- Service\obj\Debug\net6.0\Service.genruntimeconfig.cache
+C:\Testes\AdmProduct\1 - Service\obj\Debug\net6.0\Service.csproj.AssemblyReference.cache
+C:\Testes\AdmProduct\1 - Service\obj\Debug\net6.0\Service.GeneratedMSBuildEditorConfig.editorconfig
+C:\Testes\AdmProduct\1 - Service\obj\Debug\net6.0\Service.AssemblyInfoInputs.cache
+C:\Testes\AdmProduct\1 - Service\obj\Debug\net6.0\Service.AssemblyInfo.cs
+C:\Testes\AdmProduct\1 - Service\obj\Debug\net6.0\Service.csproj.CoreCompileInputs.cache
+C:\Testes\AdmProduct\1 - Service\obj\Debug\net6.0\Service.MvcApplicationPartsAssemblyInfo.cache
+C:\Testes\AdmProduct\1 - Service\obj\Debug\net6.0\Service.dll
+C:\Testes\AdmProduct\1 - Service\obj\Debug\net6.0\ref\Service.dll
+C:\Testes\AdmProduct\1 - Service\obj\Debug\net6.0\Service.pdb
+C:\Testes\AdmProduct\1 - Service\bin\Debug\net6.0\appsettings.Development.json
+C:\Testes\AdmProduct\1 - Service\bin\Debug\net6.0\appsettings.json
+C:\Testes\AdmProduct\1 - Service\bin\Debug\net6.0\Service.exe
+C:\Testes\AdmProduct\1 - Service\bin\Debug\net6.0\Service.deps.json
+C:\Testes\AdmProduct\1 - Service\bin\Debug\net6.0\Service.runtimeconfig.json
+C:\Testes\AdmProduct\1 - Service\bin\Debug\net6.0\Service.dll
+C:\Testes\AdmProduct\1 - Service\bin\Debug\net6.0\ref\Service.dll
+C:\Testes\AdmProduct\1 - Service\bin\Debug\net6.0\Service.pdb
+C:\Testes\AdmProduct\1 - Service\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Testes\AdmProduct\1 - Service\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Testes\AdmProduct\1 - Service\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Testes\AdmProduct\1 - Service\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Testes\AdmProduct\1 - Service\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Testes\AdmProduct\1 - Service\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Testes\AdmProduct\1 - Service\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Testes\AdmProduct\1 - Service\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Testes\AdmProduct\1 - Service\bin\Debug\net6.0\Application.dll
+C:\Testes\AdmProduct\1 - Service\bin\Debug\net6.0\Domain.dll
+C:\Testes\AdmProduct\1 - Service\bin\Debug\net6.0\Repository.dll
+C:\Testes\AdmProduct\1 - Service\bin\Debug\net6.0\Application.pdb
+C:\Testes\AdmProduct\1 - Service\bin\Debug\net6.0\Domain.pdb
+C:\Testes\AdmProduct\1 - Service\bin\Debug\net6.0\Repository.pdb
+C:\Testes\AdmProduct\1 - Service\obj\Debug\net6.0\staticwebassets.build.json
+C:\Testes\AdmProduct\1 - Service\obj\Debug\net6.0\staticwebassets.development.json
+C:\Testes\AdmProduct\1 - Service\obj\Debug\net6.0\scopedcss\bundle\Service.styles.css
+C:\Testes\AdmProduct\1 - Service\obj\Debug\net6.0\Service.csproj.CopyComplete
+C:\Testes\AdmProduct\1 - Service\obj\Debug\net6.0\Service.genruntimeconfig.cache
+C:\Testes\AdmProduct\1 - Service\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Testes\AdmProduct\1 - Service\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Testes\AdmProduct\1 - Service\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Testes\AdmProduct\1 - Service\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Testes\AdmProduct\1 - Service\obj\Debug\net6.0\Service.MvcApplicationPartsAssemblyInfo.cs
