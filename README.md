@@ -1,7 +1,7 @@
 # test-minimal-api
 
 ## 1 - Criar uma Solução
-    dotnet new sln --name ServiceAdmProduct 
+    dotnet new sln --name TestMinimalApi 
 ## 2 - Criar Projetos
     dotnet new web -o "1 - Service" -n "Service" -f "net6.0"
     dotnet new classlib -o "2 - Application" -n "Application" -f "netstandard2.1"
