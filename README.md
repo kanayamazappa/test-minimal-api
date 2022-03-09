@@ -19,3 +19,21 @@
     dotnet add ".\1 - Service\Service.csproj" reference ".\4 - Domain\Domain.csproj"
     dotnet add ".\1 - Service\Service.csproj" reference ".\3 - Repository\Repository.csproj"
     dotnet add ".\1 - Service\Service.csproj" reference ".\2 - Application\Application.csproj"
+
+## 5 - Usuários
+
+    Admin
+    {
+        "username": "batman",
+        "password": "batman"
+    }
+    Empregado
+    {
+        "username": "robin",
+        "password": "robin"
+    }
+    Estagiaria
+    {
+        "username": "batgirl",
+        "password": "batgirl"
+    }
